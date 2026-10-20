@@ -1,0 +1,6 @@
+EL ÚLTIMO ALTAR
+1. Abre index.html para probar.
+2. Para que el audio funcione mejor en móvil, publica el contenido de esta carpeta en GitHub Pages y pulsa INVOCAR ESPÍRITU.
+3. En GitHub Pages, sube index.html, style.css, script.js y la carpeta assets en la raíz.
+4. El QR se genera después con la URL pública de GitHub Pages.
+5. La portada de escritorio contiene el texto decorativo integrado en la imagen; el botón es una zona transparente y funcional encima. En móvil vertical se muestra una portada adaptada.
